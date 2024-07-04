@@ -1292,38 +1292,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":468,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":352.060606060606,
-                 "x":784.666666666667,
-                 "y":899.818181818182
-                }, 
-                {
                  "height":353,
                  "id":14,
                  "name":"silentZone",
@@ -1629,166 +1597,6 @@
                  "y":784
                 }, 
                 {
-                 "height":245.333333333333,
-                 "id":50,
-                 "name":"jitsiMeetingRoom",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":210.666666666667,
-                 "x":408,
-                 "y":661.333333333333
-                }, 
-                {
-                 "height":528,
-                 "id":51,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":546,
-                 "x":1421,
-                 "y":1438
-                }, 
-                {
-                 "height":468,
-                 "id":52,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":546,
-                 "x":1423.9696969697,
-                 "y":878.121212121212
-                }, 
-                {
-                 "height":571.030303030303,
-                 "id":53,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":603.575757575758,
-                 "x":20.9393939393939,
-                 "y":972.060606060606
-                }, 
-                {
-                 "height":504.363333333333,
-                 "id":54,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":603.576,
-                 "x":19.4241212121212,
-                 "y":1559.93954545455
-                }, 
-                {
                  "height":386,
                  "id":55,
                  "name":"jitsiMeetingRoom",
@@ -1821,102 +1629,6 @@
                  "y":2224.33333333333
                 }, 
                 {
-                 "height":373.333333333333,
-                 "id":56,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":511.333333333333,
-                 "x":3791,
-                 "y":1076
-                }, 
-                {
-                 "height":373.333,
-                 "id":57,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":511.333,
-                 "x":3796.3335,
-                 "y":1457.3335
-                }, 
-                {
-                 "height":373.333,
-                 "id":58,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":511.333,
-                 "x":3799.00016666667,
-                 "y":1840.00016666667
-                }, 
-                {
                  "height":17.6666666666666,
                  "id":59,
                  "name":"",
@@ -1940,7 +1652,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
                      "halign":"right",
+                     "pixelsize":13,
                      "text":"B",
                      "wrap":true
                     },
@@ -1957,6 +1671,8 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
                      "text":"C",
                      "wrap":true
                     },
@@ -1973,7 +1689,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
                      "halign":"right",
+                     "pixelsize":13,
                      "text":"D",
                      "wrap":true
                     },
@@ -1990,6 +1708,8 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
                      "text":"E",
                      "wrap":true
                     },
@@ -2006,6 +1726,8 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
                      "text":"F",
                      "wrap":true
                     },
@@ -2106,6 +1828,8 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
                      "text":"< Teams A-F",
                      "wrap":true
                     },
@@ -2156,7 +1880,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
                      "halign":"right",
+                     "pixelsize":13,
                      "text":"Teams G-I >",
                      "wrap":true
                     },
@@ -2173,7 +1899,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
                      "halign":"right",
+                     "pixelsize":13,
                      "text":"Presentations >",
                      "wrap":true
                     },
@@ -2223,6 +1951,8 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
                      "text":"< Team A",
                      "wrap":true
                     },
@@ -2255,162 +1985,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"^ Teams I-J",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":92.666666666667,
-                 "x":3875.5,
-                 "y":2665.5
-                }, 
-                {
-                 "height":17,
-                 "id":83,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
                      "halign":"right",
-                     "text":"Overflow",
+                     "text":"Teams H-J ^",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":125.166666666667,
-                 "x":446,
-                 "y":617.166666666667
-                }, 
-                {
-                 "height":17,
-                 "id":84,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "halign":"right",
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":146.166666666667,
-                 "x":455.833333333333,
-                 "y":936.5
-                }, 
-                {
-                 "height":17,
-                 "id":85,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "halign":"right",
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":147.5,
-                 "x":452.75,
-                 "y":1577.5
-                }, 
-                {
-                 "height":17,
-                 "id":86,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "halign":"right",
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":150.833333333333,
-                 "x":993.916666666667,
-                 "y":872
-                }, 
-                {
-                 "height":17,
-                 "id":87,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":158.166666666667,
-                 "x":1415.25,
-                 "y":871.5
-                }, 
-                {
-                 "height":17,
-                 "id":88,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":150.166666666667,
-                 "x":1448.75,
-                 "y":1415
-                }, 
-                {
-                 "height":17,
-                 "id":89,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":148.833333333333,
-                 "x":3812.25,
-                 "y":1096.5
-                }, 
-                {
-                 "height":17,
-                 "id":90,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":186.166666666667,
-                 "x":3815.25,
-                 "y":1479.5
-                }, 
-                {
-                 "height":17,
-                 "id":91,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Chill Zone",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":132.166666666667,
-                 "x":3815.25,
-                 "y":1864
+                 "width":135.666666666667,
+                 "x":3567.5,
+                 "y":2855.5
                 }, 
                 {
                  "height":17,
@@ -2436,7 +2019,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
                      "halign":"right",
+                     "pixelsize":13,
                      "text":"Presentations >",
                      "wrap":true
                     },
@@ -2453,7 +2038,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Segoe UI",
                      "halign":"right",
+                     "pixelsize":13,
                      "text":"Teams I-J >",
                      "wrap":true
                     },
@@ -2462,6 +2049,23 @@
                  "width":207.333333333333,
                  "x":1961.33333333334,
                  "y":601.5
+                }, 
+                {
+                 "height":230,
+                 "id":95,
+                 "name":"silentZone",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":291.5,
+                 "x":2460.75,
+                 "y":1308.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2527,7 +2131,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2285, 2286, 2285, 2286, 2285, 2286, 2285, 2286, 2285, 2286, 2285, 2286, 2285, 2286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1917, 1918, 1919, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1942, 1943, 1944, 0, 0, 0, 0, 0, 0, 1833, 1834, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2736,7 +2340,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":95,
+ "nextobjectid":96,
  "orientation":"orthogonal",
  "properties":[
         {
