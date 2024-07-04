@@ -1881,15 +1881,14 @@
                  "text":
                     {
                      "fontfamily":"Segoe UI",
-                     "halign":"right",
                      "pixelsize":13,
                      "text":"Teams G-I >",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":150.333333333333,
-                 "x":2085.33333333333,
+                 "width":77,
+                 "x":2158.66666666667,
                  "y":2488.16666666667
                 }, 
                 {
@@ -1900,15 +1899,14 @@
                  "text":
                     {
                      "fontfamily":"Segoe UI",
-                     "halign":"right",
                      "pixelsize":13,
                      "text":"Presentations >",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":154.166666666667,
-                 "x":2081.33333333333,
+                 "width":96.1666666666665,
+                 "x":2139.33333333333,
                  "y":2504.66666666667
                 }, 
                 {
