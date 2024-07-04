@@ -1635,15 +1635,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"A",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"A"
                     },
                  "type":"",
                  "visible":true,
-                 "width":80,
-                 "x":327.333333333333,
-                 "y":327.5
+                 "width":18.6666666666667,
+                 "x":395,
+                 "y":326.833333333333
                 }, 
                 {
                  "height":17,
@@ -1653,16 +1653,14 @@
                  "text":
                     {
                      "fontfamily":"Segoe UI",
-                     "halign":"right",
                      "pixelsize":13,
-                     "text":"B",
-                     "wrap":true
+                     "text":"B"
                     },
                  "type":"",
                  "visible":true,
-                 "width":53.3333333333334,
-                 "x":898.333333333333,
-                 "y":583.5
+                 "width":20.6666666666666,
+                 "x":940.333333333333,
+                 "y":582.166666666667
                 }, 
                 {
                  "height":17,
@@ -1673,14 +1671,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"C",
-                     "wrap":true
+                     "text":"C"
                     },
                  "type":"",
                  "visible":true,
                  "width":80,
-                 "x":1062.16666666667,
-                 "y":584.166666666667
+                 "x":1067.16666666667,
+                 "y":581.833333333333
                 }, 
                 {
                  "height":17,
@@ -1690,16 +1687,14 @@
                  "text":
                     {
                      "fontfamily":"Segoe UI",
-                     "halign":"right",
                      "pixelsize":13,
-                     "text":"D",
-                     "wrap":true
+                     "text":"D"
                     },
                  "type":"",
                  "visible":true,
-                 "width":70.6666666666666,
-                 "x":1362.16666666667,
-                 "y":582
+                 "width":20.6666666666665,
+                 "x":1419.5,
+                 "y":583
                 }, 
                 {
                  "height":17,
@@ -1710,14 +1705,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"E",
-                     "wrap":true
+                     "text":"E"
                     },
                  "type":"",
                  "visible":true,
                  "width":80,
-                 "x":1703.33333333333,
-                 "y":583.5
+                 "x":1708.33333333333,
+                 "y":581.833333333333
                 }, 
                 {
                  "height":17,
@@ -1728,14 +1722,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"F",
-                     "wrap":true
+                     "text":"F"
                     },
                  "type":"",
                  "visible":true,
                  "width":80,
-                 "x":1958.66666666667,
-                 "y":580.333333333333
+                 "x":1964.33333333334,
+                 "y":581
                 }, 
                 {
                  "height":17,
@@ -1744,14 +1737,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"H ",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"H "
                     },
                  "type":"",
                  "visible":true,
                  "width":80,
-                 "x":4006.66666666667,
-                 "y":2632.16666666667
+                 "x":4011,
+                 "y":2629.83333333334
                 }, 
                 {
                  "height":17,
@@ -1760,15 +1754,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"G",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"G"
                     },
                  "type":"",
                  "visible":true,
-                 "width":50,
-                 "x":2344.66666666667,
-                 "y":2821.5
+                 "width":21,
+                 "x":2379.5,
+                 "y":2822.75
                 }, 
                 {
                  "height":17,
@@ -1777,15 +1771,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"I",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"I"
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.3333333333335,
-                 "x":3246.66666666667,
-                 "y":775.5
+                 "width":16.666666666667,
+                 "x":3310.66666666667,
+                 "y":774.166666666667
                 }, 
                 {
                  "height":272,
@@ -1811,15 +1805,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"center",
-                     "text":"Organizers",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"Organizers"
                     },
                  "type":"",
                  "visible":true,
-                 "width":160.666666666667,
-                 "x":872.833333333333,
-                 "y":1675.83333333333
+                 "width":99.3333333333335,
+                 "x":919.833333333333,
+                 "y":1673.16666666666
                 }, 
                 {
                  "height":17,
@@ -1830,14 +1824,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"< Teams A-F",
-                     "wrap":true
+                     "text":"< Teams A-F"
                     },
                  "type":"",
                  "visible":true,
                  "width":124.833333333333,
-                 "x":1956,
-                 "y":2504
+                 "x":1960.5,
+                 "y":2501.75
                 }, 
                 {
                  "height":17,
@@ -1846,14 +1839,14 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"center",
-                     "text":"Presentations",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"Presentations"
                     },
                  "type":"",
                  "visible":true,
-                 "width":157,
-                 "x":3242.58333333333,
+                 "width":112.333333333333,
+                 "x":3287.25,
                  "y":2699
                 }, 
                 {
@@ -1863,15 +1856,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"Presentations",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"Presentations"
                     },
                  "type":"",
                  "visible":true,
-                 "width":153,
-                 "x":3328.83333333333,
-                 "y":1157.83333333334
+                 "width":92,
+                 "x":3397.5,
+                 "y":1157.16666666667
                 }, 
                 {
                  "height":17,
@@ -1882,14 +1875,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"Teams G-I >",
-                     "wrap":true
+                     "text":"Teams G-I >"
                     },
                  "type":"",
                  "visible":true,
-                 "width":77,
-                 "x":2158.66666666667,
-                 "y":2488.16666666667
+                 "width":76.3333333333335,
+                 "x":2159.08333333333,
+                 "y":2486.16666666667
                 }, 
                 {
                  "height":17,
@@ -1900,14 +1892,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"Presentations >",
-                     "wrap":true
+                     "text":"Presentations >"
                     },
                  "type":"",
                  "visible":true,
                  "width":96.1666666666665,
                  "x":2139.33333333333,
-                 "y":2504.66666666667
+                 "y":2502.16666666667
                 }, 
                 {
                  "height":17,
@@ -1916,15 +1907,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"Teams A-F ^",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"Teams A-F ^"
                     },
                  "type":"",
                  "visible":true,
-                 "width":184.666666666667,
-                 "x":962.166666666663,
-                 "y":1450.16666666667
+                 "width":78.6666666666667,
+                 "x":1066.83333333333,
+                 "y":1447.5
                 }, 
                 {
                  "height":17,
@@ -1933,14 +1924,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"^ Teams A-F",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"^ Teams A-F"
                     },
                  "type":"",
                  "visible":true,
                  "width":186,
-                 "x":773,
-                 "y":1451.16666666667
+                 "x":778.333333333333,
+                 "y":1448.5
                 }, 
                 {
                  "height":17,
@@ -1951,14 +1943,13 @@
                     {
                      "fontfamily":"Segoe UI",
                      "pixelsize":13,
-                     "text":"< Team A",
-                     "wrap":true
+                     "text":"< Team A"
                     },
                  "type":"",
                  "visible":true,
                  "width":158.666666666667,
-                 "x":773.333333333333,
-                 "y":615.5
+                 "x":777.333333333333,
+                 "y":616.166666666667
                 }, 
                 {
                  "height":17,
@@ -1967,13 +1958,14 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"^ Teams A-F",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"^ Teams A-F"
                     },
                  "type":"",
                  "visible":true,
                  "width":188,
-                 "x":1411.66666666667,
+                 "x":1417.66666666667,
                  "y":2024.16666666667
                 }, 
                 {
@@ -1983,15 +1975,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"Teams H-J ^",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"Teams H-J ^"
                     },
                  "type":"",
                  "visible":true,
-                 "width":135.666666666667,
-                 "x":3567.5,
-                 "y":2855.5
+                 "width":83.3333333333335,
+                 "x":3628.16666666667,
+                 "y":2855.16666666667
                 }, 
                 {
                  "height":17,
@@ -2000,14 +1992,14 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"< Teams A-F ",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"< Teams A-F "
                     },
                  "type":"",
                  "visible":true,
-                 "width":166.333333333333,
-                 "x":3124.33333333334,
+                 "width":79.666666666667,
+                 "x":3211,
                  "y":487.166666666666
                 }, 
                 {
@@ -2018,15 +2010,13 @@
                  "text":
                     {
                      "fontfamily":"Segoe UI",
-                     "halign":"right",
                      "pixelsize":13,
-                     "text":"Presentations >",
-                     "wrap":true
+                     "text":"Presentations >"
                     },
                  "type":"",
                  "visible":true,
-                 "width":201.333333333333,
-                 "x":1968,
+                 "width":93.6666666666665,
+                 "x":2075.66666666667,
                  "y":618.166666666667
                 }, 
                 {
@@ -2037,16 +2027,14 @@
                  "text":
                     {
                      "fontfamily":"Segoe UI",
-                     "halign":"right",
                      "pixelsize":13,
-                     "text":"Teams I-J >",
-                     "wrap":true
+                     "text":"Teams I-J >"
                     },
                  "type":"",
                  "visible":true,
-                 "width":207.333333333333,
-                 "x":1961.33333333334,
-                 "y":601.5
+                 "width":73.6666666666661,
+                 "x":2099,
+                 "y":603.5
                 }, 
                 {
                  "height":230,
@@ -2083,15 +2071,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "halign":"right",
-                     "text":"J",
-                     "wrap":true
+                     "fontfamily":"Segoe UI",
+                     "pixelsize":13,
+                     "text":"J"
                     },
                  "type":"",
                  "visible":true,
-                 "width":79.3333333333335,
-                 "x":3752,
-                 "y":840.166666666667
+                 "width":19.0000000000005,
+                 "x":3820.33333333333,
+                 "y":838.833333333334
                 }],
          "opacity":1,
          "type":"objectgroup",
