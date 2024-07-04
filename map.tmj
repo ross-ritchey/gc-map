@@ -1918,20 +1918,20 @@
                  "y":1840.00016666667
                 }, 
                 {
-                 "height":27,
+                 "height":17.6666666666666,
                  "id":59,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "halign":"center",
+                     "halign":"right",
                      "text":"A",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":80,
-                 "x":360,
+                 "x":327.333333333333,
                  "y":327.5
                 }, 
                 {
@@ -1941,13 +1941,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"B",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":29.3333333333334,
-                 "x":938.333333333333,
+                 "width":53.3333333333334,
+                 "x":898.333333333333,
                  "y":583.5
                 }, 
                 {
@@ -1963,8 +1964,8 @@
                  "type":"",
                  "visible":true,
                  "width":80,
-                 "x":1064.16666666667,
-                 "y":585.5
+                 "x":1062.16666666667,
+                 "y":584.166666666667
                 }, 
                 {
                  "height":17,
@@ -1973,13 +1974,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"D",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":17.3333333333333,
-                 "x":1420.16666666667,
+                 "width":70.6666666666666,
+                 "x":1362.16666666667,
                  "y":582
                 }, 
                 {
@@ -2037,14 +2039,15 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"G",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":18.6666666666665,
-                 "x":2378,
-                 "y":2822.16666666667
+                 "width":50,
+                 "x":2344.66666666667,
+                 "y":2821.5
                 }, 
                 {
                  "height":17,
@@ -2053,13 +2056,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"I",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":19.3333333333335,
-                 "x":3304.66666666667,
+                 "width":71.3333333333335,
+                 "x":3246.66666666667,
                  "y":775.5
                 }, 
                 {
@@ -2086,13 +2090,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"center",
                      "text":"Organizers",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":80,
-                 "x":916.833333333333,
+                 "width":160.666666666667,
+                 "x":872.833333333333,
                  "y":1675.83333333333
                 }, 
                 {
@@ -2107,7 +2112,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":93.5,
+                 "width":124.833333333333,
                  "x":1956,
                  "y":2504
                 }, 
@@ -2118,13 +2123,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"center",
                      "text":"Presentations",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":99,
-                 "x":3273.25,
+                 "width":157,
+                 "x":3242.58333333333,
                  "y":2699
                 }, 
                 {
@@ -2134,14 +2140,15 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Presentations",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":99,
-                 "x":3387.5,
-                 "y":1155.16666666667
+                 "width":153,
+                 "x":3328.83333333333,
+                 "y":1157.83333333334
                 }, 
                 {
                  "height":17,
@@ -2150,14 +2157,15 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Teams G-I >",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":88,
-                 "x":2148,
-                 "y":2487.5
+                 "width":150.333333333333,
+                 "x":2085.33333333333,
+                 "y":2488.16666666667
                 }, 
                 {
                  "height":17,
@@ -2166,14 +2174,15 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Presentations >",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":110.5,
-                 "x":2125,
-                 "y":2504
+                 "width":154.166666666667,
+                 "x":2081.33333333333,
+                 "y":2504.66666666667
                 }, 
                 {
                  "height":17,
@@ -2182,13 +2191,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Teams A-F ^",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":92,
-                 "x":1054.83333333333,
+                 "width":184.666666666667,
+                 "x":962.166666666663,
                  "y":1450.16666666667
                 }, 
                 {
@@ -2203,9 +2213,9 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":92,
-                 "x":771,
-                 "y":1450.5
+                 "width":186,
+                 "x":773,
+                 "y":1451.16666666667
                 }, 
                 {
                  "height":17,
@@ -2219,7 +2229,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":80,
+                 "width":158.666666666667,
                  "x":773.333333333333,
                  "y":615.5
                 }, 
@@ -2235,7 +2245,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":92,
+                 "width":188,
                  "x":1411.66666666667,
                  "y":2024.16666666667
                 }, 
@@ -2251,7 +2261,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":80,
+                 "width":92.666666666667,
                  "x":3875.5,
                  "y":2665.5
                 }, 
@@ -2262,13 +2272,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Overflow",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":64.5,
-                 "x":506.666666666667,
+                 "width":125.166666666667,
+                 "x":446,
                  "y":617.166666666667
                 }, 
                 {
@@ -2278,13 +2289,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Chill Zone",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
-                 "x":530.5,
+                 "width":146.166666666667,
+                 "x":455.833333333333,
                  "y":936.5
                 }, 
                 {
@@ -2294,13 +2306,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Chill Zone",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
-                 "x":528.75,
+                 "width":147.5,
+                 "x":452.75,
                  "y":1577.5
                 }, 
                 {
@@ -2310,13 +2323,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Chill Zone",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
-                 "x":1073.25,
+                 "width":150.833333333333,
+                 "x":993.916666666667,
                  "y":872
                 }, 
                 {
@@ -2331,7 +2345,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
+                 "width":158.166666666667,
                  "x":1415.25,
                  "y":871.5
                 }, 
@@ -2347,7 +2361,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
+                 "width":150.166666666667,
                  "x":1448.75,
                  "y":1415
                 }, 
@@ -2363,7 +2377,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
+                 "width":148.833333333333,
                  "x":3812.25,
                  "y":1096.5
                 }, 
@@ -2379,7 +2393,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
+                 "width":186.166666666667,
                  "x":3815.25,
                  "y":1479.5
                 }, 
@@ -2395,7 +2409,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.5,
+                 "width":132.166666666667,
                  "x":3815.25,
                  "y":1864
                 }, 
@@ -2406,14 +2420,15 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"< Teams A-F ",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":91,
-                 "x":3201.66666666667,
-                 "y":485.833333333333
+                 "width":166.333333333333,
+                 "x":3124.33333333334,
+                 "y":487.166666666666
                 }, 
                 {
                  "height":17,
@@ -2422,13 +2437,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Presentations >",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":115.333333333333,
-                 "x":2058.66666666667,
+                 "width":201.333333333333,
+                 "x":1968,
                  "y":618.166666666667
                 }, 
                 {
@@ -2438,13 +2454,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"Teams I-J >",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":80,
-                 "x":2088.66666666667,
+                 "width":207.333333333333,
+                 "x":1961.33333333334,
                  "y":601.5
                 }],
          "opacity":1,
@@ -2465,13 +2482,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"J",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":15.3333333333335,
-                 "x":3816,
+                 "width":79.3333333333335,
+                 "x":3752,
                  "y":840.166666666667
                 }],
          "opacity":1,
