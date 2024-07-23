@@ -774,7 +774,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-maze-entrance"
+                         "value":"hyland.tmj#from-maze-entrance"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -825,7 +825,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-maze-exit"
+                         "value":"hyland.tmj#from-maze-exit"
                         }],
                  "rotation":0,
                  "type":"area",
