@@ -2144,7 +2144,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"maze.tmj#from-office-outside"
+                         "value":"maze.tmj#from-office-inside"
                         }],
                  "rotation":0,
                  "type":"area",
